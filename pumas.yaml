@@ -8,4 +8,4 @@ members:
   - Finn
   - Pororo
   - By SSH
-  - sign: yes
+  - signed : no
